@@ -23,7 +23,7 @@
  
 #### 🌊 wave.com – E-commerce Frontend
 Built with pure HTML, CSS, JAVASCRIPT 
-🔗 [Live Site](https://7ds-adarsh.github.io/wave2.0/home.html) | [Source Code](#) 
+🔗 [Live Site](https://7ds-adarsh.github.io/wave2.0/home.html) | [Source Code](https://github.com/7ds-adarsh/wave2.0) 
 -->
 
 ---
