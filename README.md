@@ -20,15 +20,10 @@
 ---
 
 ### 🔥 Projects Coming Soon
-
-<!-- Replace these when you're ready -->
-<!-- 
+ 
 #### 🌊 wave.com – E-commerce Frontend
-
-![wave demo](https://github.com/7ds-adarsh/wave.com/assets/demo.gif)
-
-Built with React + Tailwind  
-🔗 [Live Site](#) | [Source Code](#) 
+Built with pure HTML, CSS, JAVASCRIPT 
+🔗 [Live Site](https://7ds-adarsh.github.io/wave2.0/home.html) | [Source Code](#) 
 -->
 
 ---
