@@ -19,7 +19,7 @@
 
 ---
 
-### 🔥 Projects Coming Soon
+### 🔥 Projects
  
 #### 🌊 wave.com – E-commerce Frontend
 Built with pure HTML, CSS, JAVASCRIPT 
