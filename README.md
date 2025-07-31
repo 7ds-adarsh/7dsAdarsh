@@ -28,7 +28,7 @@ Built with pure HTML, CSS, JAVASCRIPT
 
 #### 🌊 Spotify-clone app – Frontend with javascript
 Built with HTML, TailwindCSS, JAVASCRIPT 
-🔗 [Live Site](https://7ds-adarsh.github.io/spotify-clone/) | [Source Code](https://github.com/7ds-adarsh/wave2.0) 
+🔗 [Live Site](https://7ds-adarsh.github.io/spotify-clone/) | [Source Code](https://github.com/7ds-adarsh/spotify-clone) 
 -->
 
 ---
