@@ -47,7 +47,8 @@ Built with HTML, TailwindCSS, JAVASCRIPT
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh_Pawaiya-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/adarsh-pawaiya-8074b4301)
 [![Twitter](https://img.shields.io/badge/Twitter-@TabahidaarB-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/TabahidaarB)
 [![Instagram](https://img.shields.io/badge/Instagram-@7ds_adarsh-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/7ds_adarsh)
-[![Instagram](https://imgs.search.brave.com/rgYKkdHObAqd6D0ZqFNaZpfujmKQRY1NDcdva6hoQbk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4w/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvd2ViLWRlc2ln/bi0yMS81MC83LTUx/Mi5wbmc)](https://7ds-dev-looper.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-0a192f?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+)](https://7ds-dev-looper.vercel.app/)
 
 📧 Email: adarshpawaiya345@gmail.com
 
