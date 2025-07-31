@@ -2,7 +2,7 @@
 
 > **Full Stack Developer | Python & JS Specialist | Indie Builder & Tech Explorer**
 
-🌍 _"I dream of coding the world."_
+🌍 _"I dream of creating an innovative world where tech lies within beauty..."_
 
 ---
 
