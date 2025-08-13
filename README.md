@@ -33,7 +33,7 @@ Built with HTML, TailwindCSS, JAVASCRIPT
 
 #### 🌊 Weather Web App – Frontend with javascript
 Built with HTML, CSS, JAVASCRIPT 
-🔗 [Live Site](https://7ds-adarsh.github.io/Weather-app/) | [Source Code](https://github.com/7ds-adarsh/spotify-clone) 
+🔗 [Live Site](https://7ds-adarsh.github.io/Weather-app/) | [Source Code](https://github.com/7ds-adarsh/Weather-app) 
 -->
 
 ---
