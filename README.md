@@ -26,14 +26,19 @@ Built with pure HTML, CSS, JAVASCRIPT
 🔗 [Live Site](https://7ds-adarsh.github.io/wave2.0/home.html) | [Source Code](https://github.com/7ds-adarsh/wave2.0) 
 -->
 
-#### 🌊 Spotify-clone app – Frontend with javascript
+#### Spotify-clone app – Frontend with javascript
 Built with HTML, TailwindCSS, JAVASCRIPT 
 🔗 [Live Site](https://7ds-adarsh.github.io/spotify-clone/) | [Source Code](https://github.com/7ds-adarsh/spotify-clone) 
 -->
 
-#### 🌊 Weather Web App – Frontend with javascript
+#### 🌤️ Weather Web App – Frontend with javascript
 Built with HTML, CSS, JAVASCRIPT 
 🔗 [Live Site](https://7ds-adarsh.github.io/Weather-app/) | [Source Code](https://github.com/7ds-adarsh/Weather-app) 
+-->
+
+#### 📝 Todo App – ViteJS project with react
+Built with React, Tailwind, Vite 
+🔗 [Live Site](https://todo-app-xi-ashen.vercel.app/) | [Source Code](https://github.com/7ds-adarsh/Todo-App) 
 -->
 
 ---
