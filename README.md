@@ -41,6 +41,15 @@ Built with React, Tailwind, Vite
 🔗 [Live Site](https://todo-app-xi-ashen.vercel.app/) | [Source Code](https://github.com/7ds-adarsh/Todo-App) 
 -->
 
+#### 🛒 Cart Functionality – Vanilla JS with plain HTML CSS
+🔗 [Live Site](https://simple-cart-functionality.vercel.app/) | [Source Code](https://github.com/7ds-adarsh/Simple-cart-functionality) 
+-->
+
+#### 📝 X-Task - Smart To-Do App
+Built with React, NextJS, NodeJS, RestAPI, Next-Auth
+🔗 [Live Site](https://full-stack-todo-app-two.vercel.app/) | [Source Code](https://github.com/7ds-adarsh/full-stack-todo-app) 
+-->
+
 ---
 
 ### 📈 GitHub Stats
